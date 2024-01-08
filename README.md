@@ -6,7 +6,7 @@ This project is a memory allocation simulator that implements fixed memory alloc
 
 ## Files
 
-- `index.html`: This file contains the HTML structure of the memory allocation simulator. It provides the user interface for interacting with the simulator. The user can enter the process size, select a partition for allocation and deallocation, and perform the corresponding actions.
+- `index.html`: This file contains the HTML structure of the memory allocation simulator. It provides the user interface for interacting with the simulator. The user can enter the process size, select a partition from 0 to 5 for allocation and deallocation, and perform the corresponding actions.
 
 - `style.css`: This file contains the CSS styles for the memory allocation simulator. It defines the layout, colors, and formatting of the different elements in the simulator's user interface.
 

@@ -21,7 +21,10 @@ The simulator supports two fixed memory allocation methods: equal size and unequ
 After creating the partitions, you can allocate a process by entering its size and selecting a partition. The simulator will visually represent the allocated process within the chosen partition. To deallocate a process, select the partition where the process is allocated, and the simulator will remove it from the partition.
 
 Feel free to explore and experiment with different partition sizes, process allocations, and deallocations using the simulator.
-
+## Group Members
+`Syed Hasham Hameed 21-cs-90`
+`Muhammad Umar 21-cs-57`
+`Malik Muhammad Ibrahim 21-cs-69`
 ## Contributing
 
 Contributions to the memory allocation simulator project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's GitHub repository.
